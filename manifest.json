@@ -1,0 +1,23 @@
+{
+  "version": "0.0.1",
+  "packages": [
+    {
+      "name": "JulcoRath.exe",
+      "type": "file",
+      "url": "https://github.com/kikou7/JulcoRathLauncherData/releases/latest/download/JulcoRath.exe",
+      "relativePath": "JulcoRath.exe"
+    },
+    {
+      "name": "UnityPlayer.dll",
+      "type": "file",
+      "url": "https://github.com/kikou7/JulcoRathLauncherData/releases/latest/download/UnityPlayer.dll",
+      "relativePath": "UnityPlayer.dll"
+    },
+    {
+      "name": "UnityCrashHandler64.exe",
+      "type": "file",
+      "url": "https://github.com/kikou7/JulcoRathLauncherData/releases/latest/download/UnityCrashHandler64.exe",
+      "relativePath": "UnityCrashHandler64.exe"
+    }
+  ]
+}
