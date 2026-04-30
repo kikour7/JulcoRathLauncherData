@@ -1,23 +1,50 @@
 {
-  "version": "0.0.1",
+  "version": "0.0.2",
   "packages": [
     {
       "name": "JulcoRath.exe",
       "type": "file",
-      "url": "https://github.com/kikou7/JulcoRathLauncherData/releases/latest/download/JulcoRath.exe",
+      "url": "https://github.com/kikour7/JulcoRathLauncherData/releases/latest/download/JulcoRath.exe",
       "relativePath": "JulcoRath.exe"
     },
     {
       "name": "UnityPlayer.dll",
       "type": "file",
-      "url": "https://github.com/kikou7/JulcoRathLauncherData/releases/latest/download/UnityPlayer.dll",
+      "url": "https://github.com/kikour7/JulcoRathLauncherData/releases/latest/download/UnityPlayer.dll",
       "relativePath": "UnityPlayer.dll"
     },
     {
       "name": "UnityCrashHandler64.exe",
       "type": "file",
-      "url": "https://github.com/kikou7/JulcoRathLauncherData/releases/latest/download/UnityCrashHandler64.exe",
+      "url": "https://github.com/kikour7/JulcoRathLauncherData/releases/latest/download/UnityCrashHandler64.exe",
       "relativePath": "UnityCrashHandler64.exe"
+    },
+    {
+      "name": "JulcoRath_Data.zip",
+      "type": "zip",
+      "url": "https://github.com/kikour7/JulcoRathLauncherData/releases/latest/download/JulcoRath_Data.zip",
+      "relativePath": "JulcoRath_Data.zip",
+      "extractTo": ".",
+      "targetFolderToClean": "JulcoRath_Data",
+      "deleteTargetBeforeExtract": true
+    },
+    {
+      "name": "MonoBleedingEdge.zip",
+      "type": "zip",
+      "url": "https://github.com/kikour7/JulcoRathLauncherData/releases/latest/download/MonoBleedingEdge.zip",
+      "relativePath": "MonoBleedingEdge.zip",
+      "extractTo": ".",
+      "targetFolderToClean": "MonoBleedingEdge",
+      "deleteTargetBeforeExtract": true
+    },
+    {
+      "name": "D3D12.zip",
+      "type": "zip",
+      "url": "https://github.com/kikour7/JulcoRathLauncherData/releases/latest/download/D3D12.zip",
+      "relativePath": "D3D12.zip",
+      "extractTo": ".",
+      "targetFolderToClean": "D3D12",
+      "deleteTargetBeforeExtract": true
     }
   ]
 }
