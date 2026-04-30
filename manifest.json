@@ -1,5 +1,5 @@
 {
-  "version": "0.0.2",
+  "version": "0.0.3",
   "packages": [
     {
       "name": "JulcoRath.exe",
@@ -18,6 +18,18 @@
       "type": "file",
       "url": "https://github.com/kikour7/JulcoRathLauncherData/releases/latest/download/UnityCrashHandler64.exe",
       "relativePath": "UnityCrashHandler64.exe"
+    },
+    {
+      "name": "dstorage.dll",
+      "type": "file",
+      "url": "https://github.com/kikour7/JulcoRathLauncherData/releases/latest/download/dstorage.dll",
+      "relativePath": "dstorage.dll"
+    },
+    {
+      "name": "dstoragecore.dll",
+      "type": "file",
+      "url": "https://github.com/kikour7/JulcoRathLauncherData/releases/latest/download/dstoragecore.dll",
+      "relativePath": "dstoragecore.dll"
     },
     {
       "name": "JulcoRath_Data.zip",
